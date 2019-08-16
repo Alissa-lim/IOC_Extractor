@@ -1,0 +1,5 @@
+https://reaqta.com/2017/11/muddywater-apt-targeting-middle-east/
+https://unit42.paloaltonetworks.com/new-indicators-compromise-apt-group-nitro-uncovered/
+https://www.welivesecurity.com/2018/11/20/oceanlotus-new-watering-hole-attack-southeast-asia/
+https://www.zscaler.com/blogs/research/microsoft-dde-protocol-based-malware-attacks
+https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html
