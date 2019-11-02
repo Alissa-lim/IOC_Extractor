@@ -20,7 +20,7 @@ jupyter-client==5.2.4
 jupyter-core==4.4.0
 lxml==4.3.4
 Naked==0.1.31
-nltk==3.4.3
+nltk==3.4.5
 parse==1.12.0
 parso==0.4.0
 pickleshare==0.7.5
